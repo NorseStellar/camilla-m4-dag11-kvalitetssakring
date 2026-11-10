@@ -25,17 +25,17 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 
 - [x] `box-sizing: border-box` är satt
 - [x] Färger och avstånd kommer från variabler
-- [ ] Inga oanvända eller felstavade klasser
-- [ ] Filerna är uppdelade och logiskt namngivna
+- [x] Inga oanvända eller felstavade klasser
+- [x] Filerna är uppdelade och logiskt namngivna
 
 ## Responsivitet
 
-- [ ] Ingen horisontell scroll på 360 px
-- [ ] Fungerar på 360, 768 och 1280 px
-- [ ] Bilder och formulärfält anpassar sig
+- [x] Ingen horisontell scroll på 360 px
+- [x] Fungerar på 360, 768 och 1280 px
+- [x] Bilder och formulärfält anpassar sig
 
 ## Git och publicering
 
-- [ ] Commit per ändring, med begripliga meddelanden
-- [ ] Allt är pushat
-- [ ] Live-sidan visar senaste versionen
+- [x] Commit per ändring, med begripliga meddelanden
+- [x] Allt är pushat
+- [x] Live-sidan visar senaste versionen
